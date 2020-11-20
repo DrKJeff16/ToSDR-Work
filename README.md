@@ -6,3 +6,6 @@ If you're interested in ToS;DR (Terms of Service; Didn't Read), check the follow
   - [GitHub](https://github.com/tosdr)
   - [Forum](https://forum.tosdr.org)
   - [Database](https://edit.tosdr.org)
+
+## Contributing.
+For more information, see the [CONTRIBUTING.md]() File.

@@ -1,0 +1,2 @@
+# Planning.
+***THIS DIRECTORY DOES NOT GO TO THE "DONE" FOLDER***.
