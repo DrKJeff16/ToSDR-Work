@@ -21,3 +21,5 @@ $ /bin/bash myscript.sh
 $ ./myscript.sh
 $ bash myscript.sh
 ```
+
+## FILES TO IGNORE (*Until I come up with something better...*).
