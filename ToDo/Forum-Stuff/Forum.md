@@ -12,3 +12,4 @@ Users are granted a badge each time they surpass a certain threshold (depending 
     - [Level 3](https://forum.tosdr.org/badges/3/regular) (***Regular***): The User is very active, supportive and well-known at this point. More functionalities are granted.
     - [Level 4](https://forum.tosdr.org/badges/4/leader) (***Leader***): The User is a staple from the community, well-known, and barely any topic goes without them noticing. It's the ultimate *Trust Level* granted by Discourse, and grants very powerful tools for the User. ***It comes with a LOT of responsibility***.
     - [ToS;DR Team](https://forum.tosdr.org/badges/107/tos-dr-team): A unique badge for every member from the [ToS;DR Team](https://tosdr.org/about.html). It grants a unique Watermark and good-looking designs for the User's profile, among Moderator/Admin permissions.
+  - 
