@@ -1,6 +1,9 @@
 # Regarding the [Phoenix Site](https://edit.tosdr.org) [11/13/2020]
 
-Version 1.0 (Last Update: 11/16/2020)
+Version 1.0 (Last Update: 11/19/2020)
+
+TY @JustinBack! :heart: :heart: :heart: :heart:  
+https://forum.tosdr.org/t/beginners-tutorial-for-the-edit-tool/290/3?u=dr_jeff
 
 _The Phoenix Site, our database, where we review the Terms..._
 
@@ -33,7 +36,7 @@ What does each word mean? Let's take a look:
 
  - **Case**: A `category` which specifies either keywords or concepts. Cases arise usually from common wordings throughout ToS.
 	A Case is made of:
-	- A Rating: `Good`/`Bad`/`Neutral`/`Blocker`. These will indicate, essentially, how is the `weight` affects a Service's Class (whether _good_, _bad_, _none_, or _extremely bad_, respectively).
+	- A Rating: `Good`/`Bad`/`Neutral`/`Blocker`. These will indicate, essentially, how the `weight` affects a Service's Class (whether _good_, _bad_, _none_, or _extremely bad_, respectively).
 [More info -->](https://tosdr.org/classification.html)
 	- Weight: A 'score' which tells our Database how is a Service's `Class` assigned, aswell as their positioning on the Service's Listing.
 [Check the Displayed Services -->](https://tosdr.org)
@@ -85,3 +88,17 @@ Reviewing Terms is a mighty task, some would say, and it's best when communicate
 If you have any feedback on this Topic, please let me know!
 
 Also, thank you for your contributions!
+
+[poll type=regular results=always max=10 chartType=pie]
+# How useful was this tutorial for you?
+* Not At All
+* Barely
+* Not much
+* More or Less
+* Useful
+* Very Useful
+* Totally Useful
+[/poll]
+
+
+-The ToS;DR Team.
