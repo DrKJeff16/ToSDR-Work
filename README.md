@@ -9,3 +9,6 @@ If you're interested in ToS;DR (Terms of Service; Didn't Read), check the follow
 
 ## Contributing.
 For more information, check the [CONTRIBUTING.md](https://github.com/DrKJeff16/ToSDR-Work/blob/master/CONTRIBUTING.md) File.
+
+## Folders.
+Each folder has its own `README.md` file detailing its purpose, disclaimers and other stuff. Be sure to read each one you'll be working on!
