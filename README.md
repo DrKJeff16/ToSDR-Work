@@ -8,4 +8,4 @@ If you're interested in ToS;DR (Terms of Service; Didn't Read), check the follow
   - [Database](https://edit.tosdr.org)
 
 ## Contributing.
-For more information, see the [CONTRIBUTING.md]() File.
+For more information, check the [CONTRIBUTING.md](https://github.com/DrKJeff16/ToSDR-Work/blob/master/CONTRIBUTING.md) File.
