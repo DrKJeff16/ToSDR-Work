@@ -11,16 +11,23 @@ pr_hlp(){                            # Prints help.
   echo "HELP ME"
 }
 
+
 # ------------------------------------------------------------------------------
 
 if [[ ${#} -eq 0 ]]; then             # Prints usage if no options/arguments are given.
   usage
 fi
 
-while getopts :h arg
+while getopts :hfdV arg
 do
   case $arg in
     h) pr_hlp
+    ;;
+    V) pr_version
+    ;;
+    d) fc_default ; shift
+    ;;
+    f) fle_me $2 ; shift 2
     ;;
     :) usage
     ;;
