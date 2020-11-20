@@ -1,5 +1,5 @@
 # ATTENTION.
-This repository may contain some private information. The only reason for it to exist is to display my workflow as transparently as possible.
+This repository may contain some private information. The only reason for it to exist is to display my workflow as transparently as possible, and also to provide it to any other person that may need it.
 
 If you're interested in ToS;DR (Terms of Service; Didn't Read), check the following links:
   - [Main Site](https://tosdr.org)
