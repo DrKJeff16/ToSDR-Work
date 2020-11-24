@@ -18,8 +18,10 @@ If you have any questions, feedback or suggestions, don't hesitate to contact th
 ### Types of Users
 There are currently two types of users on the Site:
 
-***Reviewers***: As a reviewer, the main catch is to read Documents (ToS, PrivPol, Cookie Policy, etc.), so that the user may highlight a certain text and assign a Case to it, one by one. The point is then submitted for review, which gets us to the next type of User...
-***Curators***: Curators serve the same purpose as Reviewers, but with the ability to _Review_ other users' points (not their own). A Curator has the responsibility both to provide the necessary feedback in their reviews, and also to review a point correctly.
+- ***Reviewers***
+As a reviewer, the main catch is to read Documents (ToS, PrivPol, Cookie Policy, etc.), so that the user may highlight a certain text and assign a Case to it, one by one. The point is then submitted for review, which gets us to the next type of User...
+- ***Curators***
+Curators serve the same purpose as Reviewers, but with the ability to _Review_ other users' points (not their own). A Curator has the responsibility both to provide the necessary feedback in their reviews, and also to review a point correctly.
 
 ---
 ### Review States.
@@ -102,5 +104,5 @@ Also, thank you for your contributions!
 
 
 -The ToS;DR Team.
-
+<div data-theme-toc="true"> </div>
 ---
