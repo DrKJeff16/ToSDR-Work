@@ -1,38 +1,37 @@
-# Regarding the [Phoenix Site](https://edit.tosdr.org) [11/13/2020]
+# Regarding the [_Phoenix Site_](https://edit.tosdr.org) [11/13/2020]
+- **Version 1.2 (Last Update: 11/23/2020)**
+- *Check the [Markdown Document](https://github.com/DrKJeff16/ToSDR-Work/blob/master/Done/Forum-Stuff/Phoenix-Site.md) for this Post on GitHub!*
 
-Version 1.0 (Last Update: 11/20/2020)
-Check the [Markdown Document](https://github.com/DrKJeff16/ToSDR-Work/blob/master/Done/Forum-Stuff/Phoenix-Site.md) for this Post on GitHub!
-
-TY @JustinBack! :heart: :heart: :heart: :heart:  
+TY @JustinBack! :heart:  
 https://forum.tosdr.org/t/beginners-tutorial-for-the-edit-tool/290/3?u=dr_jeff
 
-_The Phoenix Site, our database, where we review the Terms..._
-
+---
+### _The Phoenix Site, our database, where we review the Terms..._
 In this topic we'll look at the different kinds of stuff you can do, aswell as different tips and tricks.
 
 If you have any questions, feedback or suggestions, don't hesitate to contact the [ToS;DR Team](https://forum.tosdr.org/badges/107/tos-dr-team), or create a new Topic!
 
+---
 ## Functionalities of the Site
 
+---
 ### Types of Users
-
 There are currently two types of users on the Site:
 
 ***Reviewers***: As a reviewer, the main catch is to read Documents (ToS, PrivPol, Cookie Policy, etc.), so that the user may highlight a certain text and assign a Case to it, one by one. The point is then submitted for review, which gets us to the next type of User...
 ***Curators***: Curators serve the same purpose as Reviewers, but with the ability to _Review_ other users' points (not their own). A Curator has the responsibility both to provide the necessary feedback in their reviews, and also to review a point correctly.
 
+---
 ### Review States.
-
 In the Phoenix Site, there are five review states that Points can have:
-
  - **Approved**: The point has been approved and is clear of _caveats_, so now it affects the Rating for its respective Service, and will be uploaded to the [ToS;DR Site](https://tosdr.org) through the API **ASAP**. Only Curators can give this Review State to other users' points.
  - **Changes-Requested**: The point has a generally solid structure, but some _caveats_ have been found by a Curator while reviewing it. The user has _two months_ to change the point, or else it will be switched to **_Declined_** ([To avoid clutter](https://forum.tosdr.org/t/new-changes-requested-policy/221)).
  - **Declined**: The point has been deemed not valid and therefore it won't display as highlighted text in its respectide Document. Reviewers can mark their own point as declined aswell.
  - **Draft**: Reviewers can mark their own points as _Draft_, usually to modify them later, or even for testing purposes.
  - **Pending**: When creating a new point, this state will be the default for that point. It indicates that the point is up for review. It can also be assigned manually by the owner, specially after changing their own point.
 
+---
 ### Definitions
-
 What does each word mean? Let's take a look:
 
  - **Case**: A `category` which specifies either keywords or concepts. Cases arise usually from common wordings throughout ToS.
@@ -52,13 +51,12 @@ What does each word mean? Let's take a look:
  - **Service**: Facebook, Google, Microsoft, etc. In essence, the company that provides their respective ToS, and host their respective websites/products.
 [Check the current Services -->](https://edit.tosdr.org/services)
 
-
+---
 ## _Do's and Don't's_
-
 For additional context, I'd suggest you read @Peepo 's [Topic](https://forum.tosdr.org/t/how-to-be-a-good-contributor-to-tos-dr/84)!
 
+---
 ### Rules
-
 To ensure both a good workflow, and accurate data, our rules are:
 
  - ***No spam.***
@@ -66,8 +64,8 @@ To ensure both a good workflow, and accurate data, our rules are:
  - ***No harassment/discrimination.***
  - ***Be civil, there is no need for hostility.***
 
+---
 ### My Advice
-
 While the following points are optional, I personally believe they will be useful for everyone contributing:
 
  - _If you have any doubts, don't hesitate to ask! Your questions are excellent both to inform and to improve!_
@@ -83,13 +81,14 @@ While the following points are optional, I personally believe they will be usefu
 	- *Always state a a reason for* ***Declining*** *a Point, or* **Requesting Changes** *to it.*
 	- _Check all the existing points for a Service, in case you find duplicated points, or incongruent ones!_
 
+---
 ## Epilogue
-
 Reviewing Terms is a mighty task, some would say, and it's best when communicated properly!
 If you have any feedback on this Topic, please let me know!
 
 Also, thank you for your contributions!
 
+---
 [poll type=regular results=always max=10 chartType=pie]
 # How useful was this tutorial for you?
 * Not At All
@@ -103,3 +102,5 @@ Also, thank you for your contributions!
 
 
 -The ToS;DR Team.
+
+---
