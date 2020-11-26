@@ -6,3 +6,5 @@
 
 ## 11/21/2020
   - Review [Carlos Alejandro Photography](https://edit.tosdr.org/documents/new?service=2247)
+## 11/26/2020
+  - Update the Domains for Wikipedia.
