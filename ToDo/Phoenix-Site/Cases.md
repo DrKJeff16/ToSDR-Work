@@ -89,8 +89,8 @@ _These Cases, I'd suggest, would be more appropriate if they were moved to the s
     - Reason: This is really bad, specially because it's private conversations we're talking about...
   - [336](https://edit.tosdr.org/cases/336)
     - Rating: **Bad**.
-    -Weight: 30.
-    Reason: _While this is no good, it's pretty much common practice, and for most services you can opt out with relative ease._
+    - Weight: 30.
+    - Reason: _While this is no good, it's pretty much common practice, and for most services you can opt out with relative ease._
   - [393](https://edit.tosdr.org/cases/393)
     - Rating: **Good**.
     - Weight: 10.
