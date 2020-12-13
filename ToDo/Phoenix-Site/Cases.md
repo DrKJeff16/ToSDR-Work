@@ -3,6 +3,15 @@ This is my personal list for suggestions regarding the [Phoenix Site](https://ed
 
 If you have any suggestions, feedback or ideas, don't hesitate to contact me or any other member of the ToS;DR Team!
 
+## Table of Contents
+- [Topics](#topics)
+  - [New Topics](#new-topics)
+  - [Topic Changes](#topic-changes)
+- [Cases](#cases)
+  - [_This Service_](#this-service)
+  - [Topic Switch](#topic-switch)
+  - [Editing](#editing)
+
 ## Topics
 This section will be divided on categories, as there are many repeated points of change being made.
 ### New Topics
@@ -18,7 +27,7 @@ This section will be divided on categories, as there are many repeated points of
 
 ## Cases
 This section will be divided on categories, as there are many repeated points of change being made.
-### _"This Service..."_
+### This Service
 - [169](https://edit.tosdr.org/cases/169)
 - [237](https://edit.tosdr.org/cases/237)
 - [239](https://edit.tosdr.org/cases/239)
