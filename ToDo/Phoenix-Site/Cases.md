@@ -58,7 +58,7 @@ _These Cases, I'd suggest, would be more appropriate if they were moved to the s
 - [**[Security]**](https://edit.tosdr.org/topics/50)
   - [291](https://edit.tosdr.org/cases/291)
 ### Editing:
--  ***Re-Phrasing***
+- ***Re-Phrasing***
   - [120](https://edit.tosdr.org/cases/120): _"Users are not involved in (critical) changes to this service's Terms."_
   - [126](https://edit.tosdr.org/cases/126): _"This service uses first-party cookies on you."_
   - [134](https://edit.tosdr.org/cases/134): _"This service can license your content to third parties."_
@@ -70,7 +70,7 @@ _These Cases, I'd suggest, would be more appropriate if they were moved to the s
   - [373](https://edit.tosdr.org/cases/373): _"This service may use and/or share your location data."_
   - [385](https://edit.tosdr.org/cases/385): _"If you block trackers, your experience will not be impacted."_
   - [390](https://edit.tosdr.org/cases/390): _"This Service can use your suggestions without compensation to you."_
--  ***Weight/Rating***
+- ***Weight/Rating***
   - [161](https://edit.tosdr.org/cases/161), [162](https://edit.tosdr.org/cases/162) and [398](https://edit.tosdr.org/cases/398)
     - Rating: **Neutral**.
     - Weight: 70.
