@@ -57,6 +57,22 @@ This section will be divided on categories, as there are many repeated points of
 - [332](https://edit.tosdr.org/cases/332)
 - [378](https://edit.tosdr.org/cases/378)
 - [388](https://edit.tosdr.org/cases/388)
+- [278](https://edit.tosdr.org/cases/278)
+- [286](https://edit.tosdr.org/cases/286)
+- [288](https://edit.tosdr.org/cases/288)
+- [289](https://edit.tosdr.org/cases/289)
+- [120](https://edit.tosdr.org/cases/120)
+- [243](https://edit.tosdr.org/cases/243)
+- [139](https://edit.tosdr.org/cases/139)
+- [135](https://edit.tosdr.org/cases/135)
+- [402](https://edit.tosdr.org/cases/402)
+- [228](https://edit.tosdr.org/cases/228)
+- [227](https://edit.tosdr.org/cases/227)
+- [232](https://edit.tosdr.org/cases/232)
+- [231](https://edit.tosdr.org/cases/231)
+- [297](https://edit.tosdr.org/cases/297)
+- [299](https://edit.tosdr.org/cases/299)
+- [302](https://edit.tosdr.org/cases/302)
 ### Topic Switch:
 - [**[DEPRECATED]**](https://edit.tosdr.org/topics/55)
   - [142](https://edit.tosdr.org/cases/142)
@@ -72,17 +88,21 @@ This section will be divided on categories, as there are many repeated points of
   - []()
   - [330](https://edit.tosdr.org/cases/330)
   - [156](https://edit.tosdr.org/cases/156)
-- [**Anonymity**](https://edit.tosdr.org/topics/26)
+- [**[Anonymity]**](https://edit.tosdr.org/topics/26)
   - [324](https://edit.tosdr.org/cases/324)
-- [**Copyright License**](https://edit.tosdr.org/topics/30)
+- [**[Copyright License]**](https://edit.tosdr.org/topics/30)
   -
+- [[Security]]()
+  - [291](https://edit.tosdr.org/cases/291)
 ### Editing:
 -  ***Re-Phrasing***
+  - [134](https://edit.tosdr.org/cases/134) - _"This service can license your content to third parties."_
   - [183](https://edit.tosdr.org/cases/183) - _"You maintain ownership of your Content."_
   - [390](https://edit.tosdr.org/cases/390) - _"This Service can use your suggestions without compensation to you."_
-  - [149](https://edit.tosdr.org/cases/149) - _"Liabilities on behalf of this Service are limited by a maximum amount and/or the fees you've paid to the Service."_
+  - [149](https://edit.tosdr.org/cases/149) - _"Liabilities on behalf of this Service cannot exceed a certain amount or the fees you've paid."_
   - [373](https://edit.tosdr.org/cases/373) - _"This service may use and/or share your location data."_
   - [151](https://edit.tosdr.org/cases/151) - _"You have a limited amount of time to take legal action against this service."_
+  - [120](https://edit.tosdr.org/cases/120) - _"Users are not involved in (critical) changes to this service's Terms."_
 -  ***Weight/Rating***
   - [167](https://edit.tosdr.org/cases/167)
     - Rating: **Good**.
