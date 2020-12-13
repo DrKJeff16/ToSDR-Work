@@ -15,13 +15,16 @@ If you have any suggestions, feedback or ideas, don't hesitate to contact me or 
 ## Topics
 This section will be divided on categories, as there are many repeated points of change being made.
 ### New Topics
+_New Topic(s) that could distinguish Cases much more efficiently._
 - **Advertising**.
   - [211](https://edit.tosdr.org/cases/211) - _Promotions still count as advertising, I'd argue._
   - [216](https://edit.tosdr.org/cases/216)
   - [219](https://edit.tosdr.org/cases/219)
   - [220](https://edit.tosdr.org/cases/220)
   - [327](https://edit.tosdr.org/cases/327)
+  - [336](https://edit.tosdr.org/cases/336)
 ### Topic Changes
+_I'd suggest the following names for Topics, since what is inside them is, overall, what defines them_.
 - [27](https://edit.tosdr.org/topics/27)
   - Name: _"**Content Ownership**"_.
 - [33](https://edit.tosdr.org/topics/33)
@@ -34,8 +37,9 @@ This section will be divided on categories, as there are many repeated points of
     - Name: _"**Binding Arbitration**"_.
 
 ## Cases
-This section will be divided on categories, as there are many repeated points of change being made.
+_This section will be divided on categories, as there are many repeated points of change being made_.
 ### Topic Switch:
+_These Cases, I'd suggest, would be more appropriate if they were moved to the specified Topics_:
 - [**[DEPRECATED]**](https://edit.tosdr.org/topics/55)
   - [142](https://edit.tosdr.org/cases/142)
   - [212](https://edit.tosdr.org/cases/212)
@@ -55,17 +59,17 @@ This section will be divided on categories, as there are many repeated points of
   - [291](https://edit.tosdr.org/cases/291)
 ### Editing:
 -  ***Re-Phrasing***
-  - [120](https://edit.tosdr.org/cases/120) - _"Users are not involved in (critical) changes to this service's Terms."_
-  - [126](https://edit.tosdr.org/cases/126) - _"This service uses first-party cookies on you."_
-  - [134](https://edit.tosdr.org/cases/134) - _"This service can license your content to third parties."_
-  - [149](https://edit.tosdr.org/cases/149) - _"Liabilities on behalf of this Service cannot exceed a certain amount or the fees you've paid."_
-  - [151](https://edit.tosdr.org/cases/151) - _"You have a limited amount of time to take legal action against this service."_
-  - [183](https://edit.tosdr.org/cases/183) - _"You maintain ownership of your Content."_
-  - [195](https://edit.tosdr.org/cases/195) - _"You can request access, correction and/or deletion of your data."_
-  - [206](https://edit.tosdr.org/cases/206) - _"This Service will give you prior notice before closing your account."_
-  - [373](https://edit.tosdr.org/cases/373) - _"This service may use and/or share your location data."_
-  - [385](https://edit.tosdr.org/cases/385) - _"If you block trackers, your experience will not be impacted."_
-  - [390](https://edit.tosdr.org/cases/390) - _"This Service can use your suggestions without compensation to you."_
+  - [120](https://edit.tosdr.org/cases/120): _"Users are not involved in (critical) changes to this service's Terms."_
+  - [126](https://edit.tosdr.org/cases/126): _"This service uses first-party cookies on you."_
+  - [134](https://edit.tosdr.org/cases/134): _"This service can license your content to third parties."_
+  - [149](https://edit.tosdr.org/cases/149): _"Liabilities on behalf of this Service cannot exceed a certain amount or the fees you've paid."_
+  - [151](https://edit.tosdr.org/cases/151): _"You have a limited amount of time to take legal action against this service."_
+  - [183](https://edit.tosdr.org/cases/183): _"You maintain ownership of your Content."_
+  - [195](https://edit.tosdr.org/cases/195): _"You can request access, correction and/or deletion of your data."_
+  - [206](https://edit.tosdr.org/cases/206): _"This Service will give you prior notice before closing your account."_
+  - [373](https://edit.tosdr.org/cases/373): _"This service may use and/or share your location data."_
+  - [385](https://edit.tosdr.org/cases/385): _"If you block trackers, your experience will not be impacted."_
+  - [390](https://edit.tosdr.org/cases/390): _"This Service can use your suggestions without compensation to you."_
 -  ***Weight/Rating***
   - [161](https://edit.tosdr.org/cases/161), [162](https://edit.tosdr.org/cases/162) and [398](https://edit.tosdr.org/cases/398)
     - Rating: **Neutral**.
