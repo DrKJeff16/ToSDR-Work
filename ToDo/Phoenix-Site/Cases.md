@@ -31,7 +31,6 @@ This section will be divided on categories, as there are many repeated points of
 - [169](https://edit.tosdr.org/cases/169)
 - [237](https://edit.tosdr.org/cases/237)
 - [239](https://edit.tosdr.org/cases/239)
-- [300](https://edit.tosdr.org/cases/300)
 - [194](https://edit.tosdr.org/cases/194)
 - [303](https://edit.tosdr.org/cases/303)
 - [304](https://edit.tosdr.org/cases/304)
@@ -52,7 +51,6 @@ This section will be divided on categories, as there are many repeated points of
 - [338](https://edit.tosdr.org/cases/338)
 - [381](https://edit.tosdr.org/cases/381)
 - [209](https://edit.tosdr.org/cases/209)
-- [237](https://edit.tosdr.org/cases/237)
 - [165](https://edit.tosdr.org/cases/165)
 - [167](https://edit.tosdr.org/cases/167)
 - [305](https://edit.tosdr.org/cases/305)
@@ -82,6 +80,30 @@ This section will be divided on categories, as there are many repeated points of
 - [297](https://edit.tosdr.org/cases/297)
 - [299](https://edit.tosdr.org/cases/299)
 - [302](https://edit.tosdr.org/cases/302)
+- [122](https://edit.tosdr.org/cases/122)
+- [124](https://edit.tosdr.org/cases/124)
+- [123](https://edit.tosdr.org/cases/123)
+- [121](https://edit.tosdr.org/cases/121)
+- [301](https://edit.tosdr.org/cases/301)
+- [329](https://edit.tosdr.org/cases/329)
+- [201](https://edit.tosdr.org/cases/201)
+- [204](https://edit.tosdr.org/cases/204)
+- [203](https://edit.tosdr.org/cases/203)
+- [205](https://edit.tosdr.org/cases/205)
+- [206](https://edit.tosdr.org/cases/206)
+- [379](https://edit.tosdr.org/cases/379)
+- [202](https://edit.tosdr.org/cases/202)
+- [176](https://edit.tosdr.org/cases/176)
+- [162](https://edit.tosdr.org/cases/162)
+- [384](https://edit.tosdr.org/cases/384)
+- [306](https://edit.tosdr.org/cases/306)
+- [323](https://edit.tosdr.org/cases/323)
+- [221](https://edit.tosdr.org/cases/221)
+- [375](https://edit.tosdr.org/cases/375)
+- [307](https://edit.tosdr.org/cases/307)
+- [189](https://edit.tosdr.org/cases/189)
+- [298](https://edit.tosdr.org/cases/298)
+- [300](https://edit.tosdr.org/cases/300)
 ### Topic Switch:
 - [**[DEPRECATED]**](https://edit.tosdr.org/topics/55)
   - [142](https://edit.tosdr.org/cases/142)
@@ -105,18 +127,34 @@ This section will be divided on categories, as there are many repeated points of
   - [291](https://edit.tosdr.org/cases/291)
 ### Editing:
 -  ***Re-Phrasing***
+  - [126](https://edit.tosdr.org/cases/126) - _"This service uses first-party cookies on you."_
   - [134](https://edit.tosdr.org/cases/134) - _"This service can license your content to third parties."_
   - [183](https://edit.tosdr.org/cases/183) - _"You maintain ownership of your Content."_
+  - [195](https://edit.tosdr.org/cases/195) - _"You can request access, correction and/or deletion of your data."_
+  - [206](https://edit.tosdr.org/cases/206) - _"This Service will give you prior notice before closing your account."_
   - [390](https://edit.tosdr.org/cases/390) - _"This Service can use your suggestions without compensation to you."_
+  - [385](https://edit.tosdr.org/cases/385) - _"If you block trackers, your experience will not be impacted."_
   - [149](https://edit.tosdr.org/cases/149) - _"Liabilities on behalf of this Service cannot exceed a certain amount or the fees you've paid."_
   - [373](https://edit.tosdr.org/cases/373) - _"This service may use and/or share your location data."_
   - [151](https://edit.tosdr.org/cases/151) - _"You have a limited amount of time to take legal action against this service."_
   - [120](https://edit.tosdr.org/cases/120) - _"Users are not involved in (critical) changes to this service's Terms."_
 -  ***Weight/Rating***
+  - [161](https://edit.tosdr.org/cases/161), [162](https://edit.tosdr.org/cases/162) and [398](https://edit.tosdr.org/cases/398)
+    - Rating: **Neutral**.
+    - Weight: 70.
+    - Reason: _I believe Users need to be informed about a certain Service not granting them any refunds, and so a higher weight would make it mare visible._
   - [167](https://edit.tosdr.org/cases/167)
     - Rating: **Good**.
     - Weight: 20.
     - Reason: _In reality many third parties have a legal basis to access your personal information, even though many of these may not have the best intentions or the best business practices..._
+  - [239](https://edit.tosdr.org/cases/239)
+    - Rating: **Bad**
+    - Weight: 80.
+    - Reason: This is really bad, specially because it's private conversations we're talking about...
+  - [336](https://edit.tosdr.org/cases/336)
+    - Rating: **Bad**.
+    -Weight: 30.
+    Reason: _While this is no good, it's pretty much common practice, and for most services you can opt out with relative ease._
   - [393](https://edit.tosdr.org/cases/393)
     - Rating: **Good**.
     - Weight: 10.
@@ -124,7 +162,7 @@ This section will be divided on categories, as there are many repeated points of
   - [176](https://edit.tosdr.org/cases/176)
     - Rating: **Good**.
     - Weight: 25.
-    - Reason: _While a minimum amount of logs are kept, _
+    - Reason: _While a minimum amount of logs are kept, said service will still keep your data on storage..._
 
  **Case** | **Link** | **Changes**
  --- | --- | ---
