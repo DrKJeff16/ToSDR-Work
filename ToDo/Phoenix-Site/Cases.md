@@ -3,6 +3,8 @@ This is my personal list for suggestions regarding the [Phoenix Site](https://ed
 
 If you have any suggestions, feedback or ideas, don't hesitate to contact me or any other member of the ToS;DR Team!
 
+***Last update: 12/18/2020***.
+
 ## Table of Contents
 - [Topics](#topics)
   - [New Topics](#new-topics)
