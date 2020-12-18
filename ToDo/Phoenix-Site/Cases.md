@@ -8,15 +8,16 @@ If you have any suggestions, feedback or ideas, don't hesitate to contact me or 
   - [New Topics](#new-topics)
   - [Topic Changes](#topic-changes)
 - [Cases](#cases)
-  - [_This Service_](#this-service)
+  - [New Cases](#new-cases)
   - [Topic Switch](#topic-switch)
   - [Editing](#editing)
+  - [_This Service_](#this-service)
 
 ## Topics
 This section will be divided on categories, as there are many repeated points of change being made.
 ### New Topics
 _New Topic(s) that could distinguish Cases much more efficiently._
-- **Advertising**.
+- **Advertising**. - ***[DONE 12/14/2020]***
   - [211](https://edit.tosdr.org/cases/211) - _Promotions still count as advertising, I'd argue._
   - [216](https://edit.tosdr.org/cases/216)
   - [219](https://edit.tosdr.org/cases/219)
@@ -38,11 +39,43 @@ _I'd suggest the following names for Topics, since what is inside them is, overa
 
 ## Cases
 _This section will be divided on categories, as there are many repeated points of change being made_.
+### New Cases
+- Case: `Instead of asking directly, this Service will assume your consent merely from your usage.`
+  - Topic: [User Choice](https://edit.tosdr.org/topics/34)
+  - Weight: 45 (it is an extremely deceptive tactic many services employ)
+  - Rating: **Bad**
+  - Description: `The Service infers your acceptance from your continued usage, instead of prompting you to read the Terms and asking for direct consent.`
+  - Related to privacy: `Yes`(?)
+- Case: `This service employs targeted advertising based on your (precise) location.`
+  - Topic: [Advertising](https://edit.tosdr.org/topics/57)
+  - Weight: 60
+  - Rating: **Bad**
+  - Description: `The Service uses your location data to provide targeted (third-party) advertising to its users.`
+  - Related to privacy: `Yes`
+- Case: `This Service provides a list of Third Parties involved in its operation.`
+  - Topic: [User Information](https://edit.tosdr.org/topics/36)
+  - Weight: 20
+  - Rating: **Good**
+  - Description: `The Service provides a list detailing the third parties involved, their roles, and may even provide more information.`
+  - Related to privacy: `Yes`
+- Case: `There is a last date of update on the Privacy Policy.`
+  - Topic: [Changes](https://edit.tosdr.org/topics/38)
+  - Weight: 20
+  - Rating: **Neutral**
+  - Description: `The Service provides a date of last update on its Privacy Policy.`
+  - Related to privacy: `Yes`
+- Case: `This service reserves the right to change pricing and product descriptions at any time, and may do so without notice.`
+  - Topic: [Payments](https://edit.tosdr.org/topics/54)
+  - Weight: 30
+  - Rating: **Bad**
+  - Description: `The Service provides a list detailing the third parties involved, their roles, and may even provide more information.`
+  - Related to privacy: `No`
 ### Topic Switch:
-_These Cases, I'd suggest, would be more appropriate if they were moved to the specified Topics_:
+_These Cases, I'd suggest, would be more appropriate if they were moved to these specified Topics_:
 - [**[DEPRECATED]**](https://edit.tosdr.org/topics/55)
   - [142](https://edit.tosdr.org/cases/142)
   - [212](https://edit.tosdr.org/cases/212)
+  - [238](https://edit.tosdr.org/cases/238) - _Redundant Case when we have Case [280](https://edit.tosdr.org/cases/280)_
 - [**[Content]**](https://edit.tosdr.org/topics/52)
   - [150](https://edit.tosdr.org/cases/150)
   - [280](https://edit.tosdr.org/cases/280)
@@ -56,7 +89,11 @@ _These Cases, I'd suggest, would be more appropriate if they were moved to the s
 - [**[Anonymity]**](https://edit.tosdr.org/topics/26)
   - [324](https://edit.tosdr.org/cases/324)
 - [**[Security]**](https://edit.tosdr.org/topics/50)
+  - [209](https://edit.tosdr.org/cases/209)
   - [291](https://edit.tosdr.org/cases/291)
+- [**[User Information]**](https://edit.tosdr.org/topics/36)
+  - [306](https://edit.tosdr.org/cases/306)
+  - [334](https://edit.tosdr.org/cases/334)
 ### Editing:
 - ***Re-Phrasing***
   - [120](https://edit.tosdr.org/cases/120): _"Users are not involved in (critical) changes to this service's Terms."_
@@ -74,19 +111,19 @@ _These Cases, I'd suggest, would be more appropriate if they were moved to the s
   - [161](https://edit.tosdr.org/cases/161), [162](https://edit.tosdr.org/cases/162) and [398](https://edit.tosdr.org/cases/398)
     - Rating: **Neutral**.
     - Weight: 70.
-    - Reason: _I believe Users need to be informed about a certain Service not granting them any refunds, and so a higher weight would make it mare visible._
+    - Reason: _I believe Users need to be informed about a certain Service not granting them any refunds, and so a higher weight would make it more visible._
   - [167](https://edit.tosdr.org/cases/167)
     - Rating: **Good**.
     - Weight: 20.
-    - Reason: _In reality many third parties have a legal basis to access your personal information, even though many of these may not have the best intentions or the best business practices..._
+    - Reason: _In reality many third parties have a legal basis to access your personal information, even though many of these may not have the best intentions in mind, nor the best business practices..._
   - [176](https://edit.tosdr.org/cases/176)
     - Rating: **Good**.
     - Weight: 25.
     - Reason: _While a minimum amount of logs are kept, said service will still keep your data on storage..._
   - [239](https://edit.tosdr.org/cases/239)
-    - Rating: **Bad**
+    - Rating: **Blocker**
     - Weight: 80.
-    - Reason: This is really bad, specially because it's private conversations we're talking about...
+    - Reason: _This is really bad, specially because it's private conversations we're talking about_...
   - [336](https://edit.tosdr.org/cases/336)
     - Rating: **Bad**.
     - Weight: 30.
@@ -94,10 +131,9 @@ _These Cases, I'd suggest, would be more appropriate if they were moved to the s
   - [393](https://edit.tosdr.org/cases/393)
     - Rating: **Good**.
     - Weight: 10.
-    - Reason: _A "reasonable" government request, for the most part, falls ultimately under a Service's definition of "reasonable". While some Services may only respond to court orders and/or subpoenas, it really depends on the Service's jurisdiction and ethics, without mentioning its government's practices._
+    - Reason: _A "reasonable" government request, for the most part, falls ultimately under a Service's definition of "reasonable". While some Services may only respond to court orders and/or subpoenas, it really depends on the Service's jurisdiction and ethics, without mentioning its government's practices regarding privacy._
 ### This Service
 All of the following Cases have _"The service"_ written in them, but I'd argue switching to _"This service"_ could catch our users' attention much more efficiently, and could potentially inform them with much more success.
-
   - [120](https://edit.tosdr.org/cases/120)
   - [121](https://edit.tosdr.org/cases/121)
   - [122](https://edit.tosdr.org/cases/122)
